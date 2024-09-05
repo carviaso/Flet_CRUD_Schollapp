@@ -70,7 +70,7 @@ def updateandsave(e):
 
 
 dlg = Container(
-    bgcolor="blue200",
+    bgcolor="blue500",
     padding=10,
     content=Column([
         Row([
